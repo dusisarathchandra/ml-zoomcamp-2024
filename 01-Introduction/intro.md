@@ -36,3 +36,26 @@
 Screenshots taken from course video: https://www.youtube.com/watch?v=CeukwyUdaz8&list=PL3MmuxUbc_hIhxl5Ji8t4O6lPAOpHaCLR&index=3
 
 
+#### 3. Supervised Machine Learning
+- Discussed about feature matrix (referred as <font size="6">`X`</font>) & target vector (referred as <font size="6">`y`</font>). 
+- In the discussed example - Feature matrix is a 2D matrix with rows as observations, columns as features.
+```
+                [
+ (observations) --> [1, 1, 0, 0, 1, 1] 
+                --> [1, 1, 1, 0, 0, 1] 
+                    [0, 1, 0, 1, 1, 1] 
+                    [0, 0, 1, 1, 0, 0]
+                     ↑ (features)
+                ]
+```
+- 2D matrix above is treated as feature matrix <span style="font-size: 2em;">X</span>.
+
+![supervised-learning](./images/supervised-learning-function.png)
+
+
+- Different types of Supervised Learning
+    1. Regression (typically the output would be a number)
+    2. Classification (typically outputs a category ex: car, spam example)
+    3. Multiclass classification (images of cars, animals, etc)
+    4. Binary (Special class of classification where the output is a binary. ex: spam or not)
+    5. Ranking (Usually used in recommender systems to rank something)
