@@ -57,6 +57,15 @@
     4. Binary (Special class of classification where the output is a binary. ex: spam or not)
     5. Ranking (Usually used in recommender systems to rank something)
 
+#### 4. CRISP-DM
+(Cross Industry Standard Process for Data Mining)
 
+- Methodology that talks about how ML projects should be organized
+
+![CRISP-DM](./images/CRISP-DM.png)
+
+1. **Business Understanding**: Identify business problem and how to solve it? Do we need ML to solve the problem? If not propose an alternative solution.
+2. **Data Understanding**: Analyze the available data, decide if we need to collect any more data.
+3. 
 
 Screenshots taken from course videos: https://www.youtube.com/playlist?list=PL3MmuxUbc_hIhxl5Ji8t4O6lPAOpHaCLR
