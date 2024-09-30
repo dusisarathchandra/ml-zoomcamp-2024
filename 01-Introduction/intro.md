@@ -66,6 +66,12 @@
 
 1. **Business Understanding**: Identify business problem and how to solve it? Do we need ML to solve the problem? If not propose an alternative solution.
 2. **Data Understanding**: Analyze the available data, decide if we need to collect any more data.
-3. 
+3. **Data Preparation**: Transform the data so it can be put to use in a ML model. This is basically the feature extraction from the data and remove any noise data.
+4. **Modelling**: Training the model with the actual data. We train different models and choose the best model. To make the model better, you might need to go back and fix data if required.
+5. **Evaluation**: Is the model good enough? Did we reach our goal? How good is the model performing, use metrics and deduce the model performance. Do we need to revisit the **business understanding** or do we need to change our **goal?**
+6. **Deployment**: Happens together with **evaluation** step nowadays. We deploy model, we see how the model is doing, A/B testing etc and finalize the model.
+
+We __**iterate**__ over the process multiple times and finzalize the models, deployments and reach the goal.
+
 
 Screenshots taken from course videos: https://www.youtube.com/playlist?list=PL3MmuxUbc_hIhxl5Ji8t4O6lPAOpHaCLR
