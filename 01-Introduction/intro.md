@@ -73,5 +73,16 @@
 
 We __**iterate**__ over the process multiple times and finzalize the models, deployments and reach the goal.
 
+#### 1.5 Model Selection Process
+
+Dataset division example
+|    Training  |    Validation     |    Test     |
+|--------------|-------------------|-------------|
+1. Split the dataset into 3 parts
+2. Train the model on Training dataset
+3. Apply the model on the validation dataset and we record the accuracy of the model
+4. We repeat steps (2) and (3) for multiple models and select the best model with accuracy
+5. We use the best model and apply the model to TEST data
+
 
 Screenshots taken from course videos: https://www.youtube.com/playlist?list=PL3MmuxUbc_hIhxl5Ji8t4O6lPAOpHaCLR
