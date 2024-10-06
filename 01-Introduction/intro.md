@@ -89,4 +89,15 @@ Dataset division example
 
 #### 7. Introduction to Numpy
 
+- import numpy as np
+- np.zeros(10) - fills an array of size 10 with 0's
+- np.ones(5) - fills an array of size 5 with 1's
+- np.full(10, 2.5) - fills an array of size 10 with 2.5's
+- Create an array with values
+    * `a = np.array([1,2,31,4,5])`
+    * `a[2]` will be value `31`
+    * `np.arange(5)` - Creates an array with `[0, 1, 2, 3, 4]`
+    * `np.arange(3,5)` - Creates an array within range 3 to 5 - `[3,4,5]` - this is similar to python `range` function
+    * `np.linspace(0, 1, 11)` - adjusts values `0 & 1` within `11` spaces - like `[0.0, 0.1, 0.2, 0.3, ... , 1.0]`     
+
 Screenshots taken from course videos: https://www.youtube.com/playlist?list=PL3MmuxUbc_hIhxl5Ji8t4O6lPAOpHaCLR
