@@ -78,7 +78,7 @@ We __**iterate**__ over the process multiple times and finzalize the models, dep
 Dataset division example
 |    Training  |    Validation     |    Test     |
 |--------------|-------------------|-------------|
-1. Split the dataset into 3 parts
+1. Split the dataset into 3 parts - Train, Validation, Test
 2. Train the model on Training dataset
 3. Apply the model on the validation dataset and we record the accuracy of the model
 4. We repeat steps (2) and (3) for multiple models and select the best model with accuracy
