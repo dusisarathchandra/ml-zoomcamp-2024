@@ -84,5 +84,9 @@ Dataset division example
 4. We repeat steps (2) and (3) for multiple models and select the best model with accuracy
 5. We use the best model and apply the model to TEST data
 
+#### 6. Github Codespaces Setup
+1. Creating a conda environment with required packages
+
+#### 7. Introduction to Numpy
 
 Screenshots taken from course videos: https://www.youtube.com/playlist?list=PL3MmuxUbc_hIhxl5Ji8t4O6lPAOpHaCLR
