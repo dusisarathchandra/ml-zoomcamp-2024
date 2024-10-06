@@ -73,7 +73,7 @@
 
 We __**iterate**__ over the process multiple times and finzalize the models, deployments and reach the goal.
 
-#### 1.5 Model Selection Process
+#### 5. Model Selection Process
 
 Dataset division example
 |    Training  |    Validation     |    Test     |
