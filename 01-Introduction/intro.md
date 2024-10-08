@@ -108,4 +108,7 @@ Dataset division example
 - vector_vector_multiplications, matrix_vector_multiplications, matrix_matrix_multiplications
 - Identity matrix and Inverse matrix
 
+#### 9. Introduction to Pandas
+[Pandas Introduction Notebook](./notebooks/pandas-intro.ipynb)
+
 Screenshots taken from course videos: https://www.youtube.com/playlist?list=PL3MmuxUbc_hIhxl5Ji8t4O6lPAOpHaCLR
