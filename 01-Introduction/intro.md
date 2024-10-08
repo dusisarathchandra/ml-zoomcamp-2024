@@ -85,7 +85,7 @@ Dataset division example
 5. We use the best model and apply the model to TEST data
 
 #### 6. Github Codespaces Setup
-1. Creating a conda environment with required packages
+- Creating a conda environment with required packages
 
 #### 7. Introduction to Numpy
 
@@ -101,5 +101,11 @@ Dataset division example
     * `np.linspace(0, 1, 11)` - adjusts values `0 & 1` within `11` spaces - like `[0.0, 0.1, 0.2, 0.3, ... , 1.0]`
 
     ** Notebook: [numpy notebook](./notebooks/numpy-intro.ipynb)
+
+
+#### 8. Linear Algebra Refresher
+- Discussed about vector operations
+- vector_vector_multiplications, matrix_vector_multiplications, matrix_matrix_multiplications
+- Identity matrix and Inverse matrix
 
 Screenshots taken from course videos: https://www.youtube.com/playlist?list=PL3MmuxUbc_hIhxl5Ji8t4O6lPAOpHaCLR
