@@ -111,4 +111,7 @@ Dataset division example
 #### 9. Introduction to Pandas
 [Pandas Introduction Notebook](./notebooks/pandas-intro.ipynb)
 
+#### 10. Homework
+[module-01-homework](../homeworks/01-module/homework.ipynb)
+
 Screenshots taken from course videos: https://www.youtube.com/playlist?list=PL3MmuxUbc_hIhxl5Ji8t4O6lPAOpHaCLR
